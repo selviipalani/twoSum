@@ -102,6 +102,4 @@ public class twoSum {
             test.findPair(nums, targetSum);
             test.findPair(dupeNums, 40);
         }
-    }
-}
 }
